@@ -1,6 +1,6 @@
 /// <reference types="vite/client" />
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://trust-ai-backend.onrender.com";
 
 export const apiFetch = async (
   endpoint: string,
